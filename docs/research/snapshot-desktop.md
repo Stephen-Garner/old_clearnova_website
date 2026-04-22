@@ -1,0 +1,115 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic:
+      - main
+    - region [ref=e6]:
+      - iframe [ref=e14]:
+        - generic [active] [ref=f2e1]:
+          - banner [ref=f2e2]:
+            - navigation [ref=f2e4]:
+              - link "ClearNova Logo" [ref=f2e6] [cursor=pointer]:
+                - /url: /
+                - img "ClearNova Logo" [ref=f2e7]
+          - generic [ref=f2e9]:
+            - heading "Accelerate Your Path to Innovation" [level=1] [ref=f2e10]
+            - paragraph [ref=f2e11]: We bridge the gap between innovation and adoption—transforming emerging technology into your competitive advantage.
+            - img [ref=f2e13]
+          - generic [ref=f2e16]:
+            - generic [ref=f2e17]:
+              - heading "Who Is ClearNova" [level=2] [ref=f2e18]
+              - paragraph [ref=f2e19]:
+                - text: ClearNova is a boutique advisory firm that helps organizations adopt building technologies with
+                - strong [ref=f2e20]: clarity, confidence, and control
+                - text: .
+              - paragraph [ref=f2e21]: We partner with commercial developers, asset managers, and operations groups, providing expertise in navigating the complex technology landscape. We bridge the gap between technical innovation and practical business application.
+            - img [ref=f2e24]
+          - generic [ref=f2e26]:
+            - 'heading "The 4S Framework: Clarity in Every Step" [level=2] [ref=f2e27]'
+            - generic [ref=f2e28]:
+              - generic [ref=f2e29]:
+                - generic [ref=f2e30]: SOURCE
+                - heading "Source" [level=3] [ref=f2e31]
+                - paragraph [ref=f2e32]: We identify the full landscape of viable solutions and validate each one against technical, financial, and operational criteria.
+              - generic [ref=f2e33]:
+                - generic [ref=f2e34]: SCREEN
+                - heading "Screen" [level=3] [ref=f2e35]
+                - paragraph [ref=f2e36]: We pressure‑test each validated option through modeled scenarios that expose failure points and quantify upside.
+              - generic [ref=f2e37]:
+                - generic [ref=f2e38]: SIMULATE
+                - heading "Simulate" [level=3] [ref=f2e39]
+                - paragraph [ref=f2e40]: We design a low‑risk pilot path that proves real‑world fit, validates performance early, and gives you clarity before full deployment.
+              - generic [ref=f2e41]:
+                - generic [ref=f2e42]: SECURE
+                - heading "Secure" [level=3] [ref=f2e43]
+                - paragraph [ref=f2e44]: We negotiate directly with the manufacturer on your behalf, securing client‑centric pricing and executive‑level terms that shift savings to you.
+          - generic [ref=f2e46]:
+            - heading "Choose ClearNova" [level=2] [ref=f2e47]
+            - generic [ref=f2e48]:
+              - generic [ref=f2e49]:
+                - generic [ref=f2e51]: 
+                - heading "Independent" [level=4] [ref=f2e52]
+                - paragraph [ref=f2e53]: Neutrality is your greatest advantage.
+              - generic [ref=f2e54]:
+                - generic [ref=f2e56]: 
+                - heading "Pro-Client" [level=4] [ref=f2e57]
+                - paragraph [ref=f2e58]: Every recommendation serves your goals.
+              - generic [ref=f2e59]:
+                - generic [ref=f2e61]: 
+                - heading "Future-ready" [level=4] [ref=f2e62]
+                - paragraph [ref=f2e63]: We stay ahead of emerging technologies.
+              - generic [ref=f2e64]:
+                - generic [ref=f2e66]: 
+                - heading "Risk-Managed" [level=4] [ref=f2e67]
+                - paragraph [ref=f2e68]: A structured adoption process eliminates guesswork.
+          - generic [ref=f2e70]:
+            - heading "Solutions Expertise" [level=2] [ref=f2e71]
+            - generic [ref=f2e72]:
+              - generic [ref=f2e73]:
+                - heading "IoT Smart Sensors" [level=4] [ref=f2e74]
+                - img [ref=f2e75]
+              - generic [ref=f2e76]:
+                - heading "Advanced Screening" [level=4] [ref=f2e77]
+                - img [ref=f2e78]
+              - generic [ref=f2e79]:
+                - heading "Cloud Intercoms" [level=4] [ref=f2e80]
+                - img [ref=f2e81]
+              - generic [ref=f2e82]:
+                - heading "Smart Infrastructure" [level=4] [ref=f2e83]
+                - img [ref=f2e84]
+          - heading "Connect with ClearNova today." [level=2] [ref=f2e87]
+    - region [ref=e16]:
+      - generic [ref=e26]:
+        - heading "Are you ready to de-risk your next building technology deployment and gain absolute clarity?" [level=1] [ref=e27]
+        - generic [ref=e30]:
+          - textbox "Name*" [ref=e31]
+          - generic: Name*
+        - generic [ref=e34]:
+          - textbox "Email*" [ref=e35]
+          - generic: Email*
+        - generic [ref=e38]:
+          - textbox "Phone" [ref=e39]
+          - generic: Phone
+        - textbox "Message*" [ref=e42]
+        - button "SUBMIT" [ref=e46] [cursor=pointer]
+        - paragraph [ref=e48]:
+          - text: This site is protected by reCAPTCHA and the Google
+          - link "Privacy Policy" [ref=e49] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy
+          - text: and
+          - link "Terms of Service" [ref=e50] [cursor=pointer]:
+            - /url: https://policies.google.com/terms
+          - text: apply.
+    - contentinfo [ref=e52]:
+      - generic [ref=e57]:
+        - paragraph [ref=e60]: Copyright © 2026 CLEARNOVA - All Rights Reserved.
+        - generic [ref=e62]:
+          - paragraph [ref=e63]: Powered by
+          - link [ref=e64] [cursor=pointer]:
+            - /url: https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base
+            - img [ref=e65]
+    - generic [ref=e70]:
+      - heading "This website uses cookies." [level=4] [ref=e71]
+      - paragraph [ref=e73]: We use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.
+      - link "Accept" [ref=e75] [cursor=pointer]:
+        - /url: ""
+  - button "TrustedSite Certified" [ref=e76] [cursor=pointer]
