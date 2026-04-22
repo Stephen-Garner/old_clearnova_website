@@ -15,7 +15,7 @@ export default function SolutionsSection() {
           className="gradient-text font-[family-name:var(--font-inter)]"
           style={{
             fontSize: 56,
-            fontWeight: 800,
+            fontWeight: 700,
             letterSpacing: "-0.5px",
             textAlign: "center",
             marginBottom: 60,
@@ -34,7 +34,7 @@ export default function SolutionsSection() {
                 className="font-[family-name:var(--font-inter)]"
                 style={{
                   fontSize: 20,
-                  fontWeight: 800,
+                  fontWeight: 700,
                   color: "#00A6A6",
                   letterSpacing: "-0.5px",
                   marginBottom: 10,

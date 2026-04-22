@@ -39,7 +39,7 @@ export default function ContactSection() {
           className="gradient-text font-[family-name:var(--font-inter)]"
           style={{
             fontSize: 56,
-            fontWeight: 800,
+            fontWeight: 700,
             letterSpacing: "-0.5px",
             textAlign: "center",
             marginBottom: 60,

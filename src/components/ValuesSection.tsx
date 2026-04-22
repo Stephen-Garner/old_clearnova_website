@@ -29,7 +29,7 @@ export default function ValuesSection() {
           className="gradient-text font-[family-name:var(--font-inter)]"
           style={{
             fontSize: "56px",
-            fontWeight: 800,
+            fontWeight: 700,
             letterSpacing: "-0.5px",
             textAlign: "center",
             marginBottom: "60px",
@@ -48,7 +48,7 @@ export default function ValuesSection() {
                 className="font-[family-name:var(--font-inter)]"
                 style={{
                   fontSize: "22px",
-                  fontWeight: 800,
+                  fontWeight: 700,
                   color: "#00A6A6",
                   letterSpacing: "-0.5px",
                   marginBottom: "10px",

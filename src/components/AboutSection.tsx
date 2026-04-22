@@ -10,7 +10,7 @@ export default function AboutSection() {
         {/* Left column - text */}
         <div className="md:w-[55%] w-full">
           <h2
-            className="gradient-text font-extrabold font-[family-name:var(--font-inter)]"
+            className="gradient-text font-bold font-[family-name:var(--font-inter)]"
             style={{
               fontSize: "56px",
               lineHeight: "1.6",

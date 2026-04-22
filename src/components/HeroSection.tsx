@@ -4,7 +4,7 @@ export default function HeroSection() {
   return (
     <section className="text-center" style={{ background: "#F4F9F9", padding: "120px 20px" }}>
       <h1
-        className="gradient-text font-[family-name:var(--font-inter)] font-extrabold"
+        className="gradient-text font-[family-name:var(--font-inter)] font-bold"
         style={{
           fontSize: "64px",
           lineHeight: "70.4px",
