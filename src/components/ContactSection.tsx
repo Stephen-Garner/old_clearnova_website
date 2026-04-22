@@ -34,7 +34,7 @@ export default function ContactSection() {
   return (
     <section style={{ backgroundColor: "#FFFFFF" }}>
       {/* Part A: CTA heading */}
-      <div style={{ padding: "100px 20px 0", maxWidth: 1100, margin: "0 auto" }}>
+      <div style={{ padding: "100px 20px 0", maxWidth: 1100, margin: "0 auto", textAlign: "center" }}>
         <h2
           className="gradient-text font-[family-name:var(--font-inter)]"
           style={{
